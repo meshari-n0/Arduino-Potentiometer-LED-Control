@@ -19,9 +19,9 @@ This project controls the brightness of an LED using a potentiometer.
 
 ---
 
-## 🔌 Circuit Connection
+## 🔌 LED Connection
 - LED:
-  - Pin 9 → Resistor → LED → GND  
+- Pin 9 → LED → Resistor → GND
 
 - Potentiometer:
   - One side → 5V  
