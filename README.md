@@ -30,6 +30,11 @@ This project controls the brightness of an LED using a potentiometer.
 
 ---
 
+## 📷 Project Preview
+<img width="667" height="509" alt="image" src="https://github.com/user-attachments/assets/1a33bd72-3f5f-450a-ba86-5ed2428a063c" />
+
+---
+
 ## 💻 Code
 ```cpp
 int potPin = A0;
